@@ -1,0 +1,64 @@
+# Project Introduction
+
+## Coding-Night-Live
+
+### Tech Stack
+
+- Python 3.5+ / Django 1.10+ / Channels
+
+- SQlite3 / Redis
+
+- WebSocket
+
+- jQuery / Bootstrap 4(alpha)
+
+### Features
+
+* Markdown-based slides
+* Live slide/code sharing
+* Syntax highlighting for over 100 languages
+* Track participants with live polling
+* User-friendly Q&A through comments
+* Catchy announcements with notice
+* Join codelab via unique URL created for each event 
+* Export codelab to pdf
+* Collaborative code editing *(future)*
+
+### Third Party Libraries
+
+* [`python`](https://www.python.org/) 3.5 +
+* [`django`](https://github.com/django/django) 1.9 +
+* [`django-allauth`](https://github.com/pennersr/django-allauth)
+* [`django-redis`](https://github.com/niwinz/django-redis)
+* [`python-social-auth`](https://github.com/omab/python-social-auth)
+* [`bootstrap`](https://github.com/twbs/bootstrap)
+* [`CodeMirror`](https://github.com/codemirror/CodeMirror)
+* [`bootstrap4 (alpha)`](https://v4-alpha.getbootstrap.com/)
+* [`jquery`](https://github.com/jquery/jquery)
+* [`highlight.js`](https://github.com/isagalaev/highlight.js)
+* [`markdown-it`](https://github.com/markdown-it/markdown-it)
+* [`redis`](https://github.com/antirez/redis)
+* [`simplemde-markdown-editor`](https://github.com/NextStepWebs/simplemde-markdown-editor)
+* [`jquery-ui`](https://github.com/jquery/jquery-ui)
+* [`Font-Awesome`](https://github.com/FortAwesome/Font-Awesome)
+* [`google-diff-match-patch`](https://code.google.com/p/google-diff-match-patch/)
+* [`reconnecting-websocket`](https://github.com/joewalnes/reconnecting-websocket)
+* [`tether`](https://github.com/HubSpot/tether/)
+* [`google-chart`](https://github.com/GoogleWebComponents/google-chart)
+* [`github-markdown-css`](https://github.com/sindresorhus/github-markdown-css)
+* [`clipboard.js`](https://clipboardjs.com/)
+* [`raven`](https://github.com/getsentry/raven-python/)
+* [`twisted`](https://github.com/twisted/twisted/)
+
+### People@Team [`dduk-ddak`](https://github.com/dduk-ddak)
+
+- Younjoon Chung [@fuzzythecat](https://github.com/fuzzythecat)
+
+- Kwanghee Choi [@juice500ml](https://github.com/juice500ml)
+
+- Jiyoon Ha [@punkyoon](https://github.com/punkyoon)
+
+#### Special Thanks to..
+
+- Sanghyeok Lee [@shlee322](https://github.com/shlee322)
+- Minho Ryang [@minhoryang](https://github.com/minhoryang) | [@AilisObrian](https://github.com/AilisObrian)
