@@ -1,8 +1,8 @@
 # Home
 
-## Welcome to the ooding-night-live-doc!
+## Welcome to the coding-night-live-doc!
 
-coding-night-live is a Web-Based Communication Application for codelabs.
+[coding-night-live](https://github.com/punkyoon/coding-night-live) is a Web-Based Communication Application for codelabs.
 
 > Codelab is a fun step-by-step, seminar-based approach to developing a software together.
 
