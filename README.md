@@ -1,6 +1,4 @@
-# Home
-
-## Welcome to the coding-night-live-doc!
+# Welcome to the coding-night-live-doc!
 
 [coding-night-live](https://github.com/punkyoon/coding-night-live) is a Web-Based Communication Application for codelabs.
 
