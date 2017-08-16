@@ -16,8 +16,6 @@ It is the light-weight, installation-free, web-based solution for the awesome co
 
 [4. APIs](https://github.com/dduk-ddak/coding-night-live-doc/blob/master/4.%20APIs.md)
 
-[5. Contributing Guide](https://github.com/dduk-ddak/coding-night-live-doc/blob/master/5.%20Contributing%20Guide.md)
-
 ## Video Demo
 
 [Old version Demo](https://www.youtube.com/watch?v=-EFYUEsLLDo&feature=youtu.be)
